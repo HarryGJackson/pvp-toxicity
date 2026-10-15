@@ -85,7 +85,7 @@ jupyter notebook PvP_Toxicity_Classification.ipynb
 - Implemented Naive Bayes, once on a fixed dictionary and once on TF-IDF, plus the most telling words for each class
 - Set up the GitHub repository and wrote the README
 
-**Ganavi Gowda (PES1UG24CS706) : model evaluation and improvement**
+**Ganavi Gowda (PES1UG24CS705) : model evaluation and improvement**
 - Implemented K-Nearest Neighbours (K = 1, 2, 3, 6) with Euclidean distance
 - Implemented Random Forest with Gini, entropy, and depth-limited settings
 - Built the model comparison: accuracy and per-class F1 table, F1 chart, confusion matrices, and best-model selection on validation accuracy
